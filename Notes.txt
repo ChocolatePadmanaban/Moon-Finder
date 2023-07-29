@@ -1,3 +1,29 @@
 -  Get Long and Latitue  in Decimal
 - Select Year => display list of Full moons 
 - Get Datetime as Input Display --> Postion of the Moon 
+
+
+Pre-requisite:
+- What is Altitude?
+- What is Azimuth?
+Refer : https://youtu.be/V97HQcbozeQ?si=vjc_-AsfvavIgF8O
+
+to learn Basic Astronomy:
+Understanding Sky
+https://youtube.com/playlist?list=PLrAnGxL8nxOHzZi2QikEwZAilC4opr18R&si=qU_oEd_Qydy8Wjuk
+
+PyLunar Library 
+
+Inputs Taken :
+- Latitue and Longitude in Degree, Min, Sec 
+- Datetime in UTC time 
+
+Outputs:
+- Moon age in cycle 
+- Altitude 
+- Azimuth
+
+
+Practical Example :
+
+Padmanabhaswamy Temple - https://youtu.be/NaLTdL9CEzQ?si=atWLg_q9OL2xwyah
